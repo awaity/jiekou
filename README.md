@@ -2,6 +2,7 @@
 
 ## github代理地址： 选择一个速度快的使用
 - https://github.moeyy.xyz/
+- https://gh.xxooo.cf/
 - https://mirror.ghproxy.com/
 - https://gh-proxy.com/
 - https://ghproxy.net/
